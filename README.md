@@ -1,7 +1,7 @@
 Mechanical Endstop for Shapeoko
 ==============================================
 
-![mechanical-endstop-shapeoko](/akafugu/mechanical-endstop-shapeoko/raw/master/switches/mechanical-endstop-shapeoko.jpg)
+![mechanical-endstop-shapeoko](https://raw.github.com/akafugu/mechanical-endstop-shapeoko/master/mechanical-endstop-shapeoko.jpg)
 
 The design for this endstop was inspired by the mechanical endstop from [Makerbot](http://wiki.makerbot.com/thingomatic-doc:mechanical-endstop-1-2).
 
